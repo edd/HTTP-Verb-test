@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
+
+	<title>HTTP Verb test</title>
+	<style type="text/css" media="screen">
+		h1.success{ background-color: #78FF68;}
+		h1.failure{ background-color: #99141B;}
+	</style>
+</head>
+
+<body>
+	<script type="text/javascript" charset="utf-8">
+
+		// Create an AJAX call, setting 'type'
+		function createRequest(type){
+
+			return $.ajax({
+				type: type,
+				url: '/puttest/',
+				
+				success: function(response,text){
+					$type = $('#'+type);
+
+					$type.html(response);
+
+					if (type.toUpperCase() == response){
+						$type.parent().addClass('success');
+					} else {
+						$type.parent().addClass('failure');
+					}
+				},
+				error: function(){
+					$type = $('#'+type);
+
+					$type.html('Error');
+					$type.parent().addClass('failure');
+				}
+			});
+
+		}
+		$(document).ready(function(){
+			var methods = ['get','post','put','delete'];
+			
+			for (i=0;i < methods.length; i++){
+				createRequest(methods[i]);
+			}
+		});
+		
+		</script>
+		<h1>GET resulted in a: <span id="get"></span></h1>
+		<h1>POST resulted in a: <span id="post"></span></h1>		
+		<h1>PUT resulted in a: <span id="put"></span></h1>
+		<h1>DELETE resulted in a: <span id="delete"></span></h1>
+	</body>
+</html>

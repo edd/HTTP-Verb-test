@@ -1,0 +1,29 @@
+25333611.jpg - Linux Fedora Core 6 - Firefox 1.5.0.12 - Flash - http://gingerninja.org/puttest/index.html
+25333612.jpg - Linux Fedora Core 6 - Firefox 3.6.10 - Flash - http://gingerninja.org/puttest/index.html
+25333613.jpg - Macintosh OSX 10.3 - Explorer 5.2 - Flash - http://gingerninja.org/puttest/index.html
+25333614.jpg - Macintosh OSX 10.3 - Safari 1.3 - Flash - http://gingerninja.org/puttest/index.html
+25333615.jpg - Macintosh OSX 10.4 - Explorer 5.2 - Flash - http://gingerninja.org/puttest/index.html
+25333616.jpg - Macintosh OSX 10.4 - Firefox 2.0.0.20 - Flash - http://gingerninja.org/puttest/index.html
+25333617.jpg - Macintosh OSX 10.4 - Safari 3.2.3 - Flash - http://gingerninja.org/puttest/index.html
+25333618.jpg - Macintosh OSX 10.5 - Safari 4.0.5 - Flash - http://gingerninja.org/puttest/index.html
+25333619.jpg - Macintosh OSX 10.5 - Opera 9.62 - Flash - http://gingerninja.org/puttest/index.html
+25333620.jpg - Macintosh OSX 10.5 - Camino 2.0 - Flash - http://gingerninja.org/puttest/index.html
+25333621.jpg - Macintosh OSX 10.6 - Firefox 3.6.10 - Flash - http://gingerninja.org/puttest/index.html
+25333622.jpg - Macintosh OSX 10.6 - Firefox 4.0 - Flash - http://gingerninja.org/puttest/index.html
+25333623.jpg - Macintosh OSX 10.6 - Safari 5 - Flash - http://gingerninja.org/puttest/index.html
+25333624.jpg - Macintosh OSX 10.6 - Opera 10.00 - Flash - http://gingerninja.org/puttest/index.html
+25333625.jpg - Windows 2000 Professional - Explorer 5.0 - Flash - http://gingerninja.org/puttest/index.html
+25333626.jpg - Windows 2000 Professional - Explorer 5.5 - Flash - http://gingerninja.org/puttest/index.html
+25333627.jpg - Windows 2000 Professional - Explorer 6.0 - Flash - http://gingerninja.org/puttest/index.html
+25333636.jpg - Windows 7 - Explorer 8.0 - Flash - http://gingerninja.org/puttest/index.html
+25333637.jpg - Windows 7 - Explorer 9 - Flash - http://gingerninja.org/puttest/index.html
+25333638.jpg - Windows 7 - Chrome 8.0.552.215 - Flash - http://gingerninja.org/puttest/index.html
+25333639.jpg - Windows 7 - Chrome 9.0.597.98 - Flash - http://gingerninja.org/puttest/index.html
+25333629.jpg - Windows Vista - Explorer 7.0 - Flash - http://gingerninja.org/puttest/index.html
+25333630.jpg - Windows Vista - Firefox 3.6.10 - Flash - http://gingerninja.org/puttest/index.html
+25333631.jpg - Windows Vista - Firefox 4.0 - Flash - http://gingerninja.org/puttest/index.html
+25333632.jpg - Windows Vista - safari 4.0.5 - Flash - http://gingerninja.org/puttest/index.html
+25333633.jpg - Windows Vista - Safari 5.0 - Flash - http://gingerninja.org/puttest/index.html
+25333634.jpg - Windows Vista - Opera 10.50 - Flash - http://gingerninja.org/puttest/index.html
+25333635.jpg - Windows Vista - Opera 9.62 - Flash - http://gingerninja.org/puttest/index.html
+25333628.jpg - Windows XP - Explorer 6.0 - Flash - http://gingerninja.org/puttest/index.html
